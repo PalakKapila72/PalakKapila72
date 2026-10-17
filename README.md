@@ -14,7 +14,7 @@
 - 💼 Former **Software Developer Intern** at **Vienna Advantage**
 - 💡 Passionate about **Full-Stack Development, Data Structures & Algorithms, and AI/ML Solutions**
 - 🏆 **Achievements:** NPTEL Machine Learning Certified | JEE Main 94.2 Percentile | 100/100 in Chemistry (KV Merit Awardee)
-- 💬 Ask me about **C++, React, Node.js, System Design, or Gemini AI**
+- 💬 Ask me about **C++, React, Node.js, Graph Algorithms, or Gemini AI**
 
 ---
 
@@ -40,15 +40,19 @@
 - Integrated **Google Gemini AI** for automatic transaction categorization and financial health scoring (0-100).
 - 🔗 **[Live Demo](https://smart-expense-budget-management.vercel.app)** • **[GitHub Repository](https://github.com/PalakKapila72/smart-expense-budget-management)**
 
-#### 2. 🩸 [BloodBridge – Blood Bank & Emergency Donor System](https://github.com/PalakKapila72)
-> **C++, Graph Algorithms, DSA, DBMS**
-- Emergency blood management network connecting urgent donor requests with available inventory.
-- Implemented **graph-based shortest-path algorithms (Dijkstra/BFS)** to determine nearest available donors and blood banks.
+#### 2. 🩸 [BloodBridge – Blood Bank & Emergency Donor Management System](https://github.com/PalakKapila72/bloodbridge-management-system)
+> **C++, Graph Algorithms, Shortest-Path Dijkstra, DSA, DBMS**
+- Emergency blood management network connecting urgent hospital requests with available donors and blood banks.
+- Implemented **graph-based shortest-path algorithms (Dijkstra)** across a weighted road network to identify and rank the nearest reachable donors.
+- Includes full C++ DSA core, blood compatibility matrix check, and real-time donor dispatch simulation.
+- 🔗 **[GitHub Repository](https://github.com/PalakKapila72/bloodbridge-management-system)**
 
-#### 3. 🚗 [Car Rental Management System](https://github.com/PalakKapila72)
+#### 3. 🚗 [Car Rental Management System](https://github.com/PalakKapila72/car-rental-management-system)
 > **C++, Object-Oriented Programming (OOP), File Handling**
-- Console-based system managing vehicle fleet inventory, customer reservations, and rental calculations.
-- Applied inheritance, polymorphism, and persistent file-handling for invoice generation and rental history.
+- Console & web management system for vehicle fleet reservations, customer records, and dynamic billing.
+- Applied core OOP design principles: base `Vehicle` class with derived `Sedan`, `SUV`, and `LuxuryCar` utilizing runtime polymorphism for tax/insurance computations.
+- Implemented persistent file handling for customer records and invoice receipts.
+- 🔗 **[GitHub Repository](https://github.com/PalakKapila72/car-rental-management-system)**
 
 ---
 
