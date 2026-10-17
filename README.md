@@ -33,26 +33,25 @@
 
 ### 🚀 Featured Projects
 
-#### 1. 💰 [Smart Expense & Budget Management System](https://github.com/PalakKapila72/smart-expense-budget-management)
+#### 1. 🩸 [BloodBridge – Blood Bank & Emergency Donor Management System](https://github.com/PalakKapila72/BloodBridge)
+> **C++, Dijkstra Graph Algorithm, MERN Stack, GIS Mapping, MongoDB**
+- Emergency blood management platform connecting critical patient requests with available donors and verified blood banks.
+- Implemented **Dijkstra's Shortest Path Algorithm** in C++ with a Min-Heap (`priority_queue`) to find nearest facilities/donors in $O((V+E)\log V)$ time.
+- 🌐 **[Live Website (Vercel)](https://bloodbridge-web.vercel.app)** • ⚙️ **[Live Backend API (Render)](https://bloodbridge-7y8c.onrender.com)** • 💻 **[GitHub Repository](https://github.com/PalakKapila72/BloodBridge)**
+
+#### 2. 💰 [Smart Expense & Budget Management System](https://github.com/PalakKapila72/smart-expense-budget-management)
 > **Full-Stack MERN + Google Gemini AI Platform**
-- Real-time personal finance tracker with KPI metrics (Inflow, Outflow, Net Surplus, Savings Rate).
-- Proactive monthly category budget thresholds with visual alert meters (`Safe`, `Warning >80%`, `Exceeded`).
-- Integrated **Google Gemini AI** for automatic transaction categorization and financial health scoring (0-100).
-- 🔗 **[Live Demo](https://smart-expense-budget-management.vercel.app)** • **[GitHub Repository](https://github.com/PalakKapila72/smart-expense-budget-management)**
+- Real-time personal finance dashboard monitoring cash flows, category spending velocity, and budget utilization.
+- Integrated **Google Gemini AI** for automatic transaction categorization and dynamic financial health scoring.
+- Proactive monthly budget limits with color-coded threshold alerts (`Safe`, `Warning >80%`, `Exceeded`).
+- 🌐 **[Live Demo (Vercel)](https://smart-expense-budget-management.vercel.app)** • 💻 **[GitHub Repository](https://github.com/PalakKapila72/smart-expense-budget-management)**
 
-#### 2. 🩸 [BloodBridge – Blood Bank & Emergency Donor Management System](https://github.com/PalakKapila72/bloodbridge-management-system)
-> **C++, Graph Algorithms, Shortest-Path Dijkstra, DSA, DBMS**
-- Emergency blood management network connecting urgent hospital requests with available donors and blood banks.
-- Implemented **graph-based shortest-path algorithms (Dijkstra)** across a weighted road network to identify and rank the nearest reachable donors.
-- Includes full C++ DSA core, blood compatibility matrix check, and real-time donor dispatch simulation.
-- 🔗 **[GitHub Repository](https://github.com/PalakKapila72/bloodbridge-management-system)**
-
-#### 3. 🚗 [Car Rental Management System](https://github.com/PalakKapila72/car-rental-management-system)
+#### 3. 🚗 [Car Rental Management System](https://github.com/PalakKapila72/CarRentalSystem)
 > **C++, Object-Oriented Programming (OOP), File Handling**
-- Console & web management system for vehicle fleet reservations, customer records, and dynamic billing.
-- Applied core OOP design principles: base `Vehicle` class with derived `Sedan`, `SUV`, and `LuxuryCar` utilizing runtime polymorphism for tax/insurance computations.
-- Implemented persistent file handling for customer records and invoice receipts.
-- 🔗 **[GitHub Repository](https://github.com/PalakKapila72/car-rental-management-system)**
+- Console-based vehicle booking and rental fleet management system built in C++.
+- Applied core OOP design principles: Inheritance and runtime polymorphism across `Vehicle`, `Sedan`, `SUV`, and `LuxuryCar` classes for dynamic billing.
+- Persistent file handling (`fstream`) for recording customer bookings and generating invoice receipts.
+- 💻 **[GitHub Repository](https://github.com/PalakKapila72/CarRentalSystem)**
 
 ---
 
